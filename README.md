@@ -15,5 +15,6 @@ I used mongodb to store users information. And I also utilized the stripe API to
 ![](images/gameplay.gif)
 <p>Above you will see the actual game play. The user is asked what the RGB value is and the user is given six options on easy mode and 3 on easy mode. They are then tasked with selecting the correct color </p>
 
-
+![](images/logout.gif)
+<p> Finally you will see the logout functionality </p>
 
