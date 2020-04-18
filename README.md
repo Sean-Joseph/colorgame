@@ -9,6 +9,9 @@ I used mongodb to store users information. And I also utilized the stripe API to
 ![](images/mongodb.gif)
 <p> Above you will see the mongodb usage. Note that the user is unable to sign in because they have already registered</p>
 
+![](images/userauth.gif)
+<p> Above you will see mongodb as well as passportjs to authenticate the user and sign them in.</p>
+
 
 
 
