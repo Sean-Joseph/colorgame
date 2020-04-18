@@ -6,6 +6,5 @@ I used mongodb to store users information. And I also utilized the stripe API to
 <p> Below you will see the stripe API usage </p>
 ![](images/2020-04-17%2020.31.23.gif)
 
-<p> Below you will see the stripe API usage </p>
-![](images/2020-04-17%2020.32.37.gif)
+
 
