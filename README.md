@@ -3,5 +3,5 @@
 I used mongodb to store users information. And I also utilized the stripe API to mimic accepting payments. 
 </p>
 
-![](images/game_example.png)
+![](images/game_example.mov)
 
