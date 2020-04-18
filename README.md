@@ -3,8 +3,9 @@
 I used mongodb to store users information. And I also utilized the stripe API to mimic accepting payments. 
 </p>
 
-<p> Below you will see the stripe API usage </p>
 ![](images/stripe.gif)
+<p> Above you will see the stripe API usage </p>
+
 
 
 
